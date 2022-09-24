@@ -32,7 +32,7 @@ Creating a RolePlay Community and Server for Everyone can contribute to the Cops
 
 </details>
 
-\### About The Project
+About The Project
 
 [![Product Name Screen Shot](.gitbook/assets/logo.png)](https://copsrp.com)
 
