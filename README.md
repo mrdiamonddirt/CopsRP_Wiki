@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">CopsRP Wiki</h3>
 
   <p align="center">
-    project_description
+    Repo For the development of the CopsRP Community Roleplay server allowing anyone to contribute to the development of not only the server but the actual Wiki
     <br />
     <a href="https://github.com/mrdiamonddirt/CopsRP_Wiki"><strong>Explore the docs »</strong></a>
     <br />
@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@mrdiamonddirt](https://twitter.com/mrdiamonddirt) - mrdiamonddirt@Gmail.com
 
 Project Link: [https://github.com/mrdiamonddirt/CopsRP_Wiki](https://github.com/mrdiamonddirt/CopsRP_Wiki)
 
@@ -206,9 +206,9 @@ Project Link: [https://github.com/mrdiamonddirt/CopsRP_Wiki](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [The FiveM and CFX team without them the server wouldn't be possible](https://https://forum.cfx.re/)
+* [The QBCore Development Team because they have taught me so much and the server is built upon QBCore as a Base](https://docs.qbcore.org/qbcore-documentation/)
+* [The CopsRP.com Roleplay Community for the help and support over the past 5 years, Thank You](https://www.copsrp.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
