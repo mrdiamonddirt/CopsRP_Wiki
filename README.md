@@ -31,19 +31,6 @@ Creating a RolePlay Community and Server for Everyone can contribute to the Cops
 
 [![Product Name Screen Shot](.gitbook/assets/logo.png)](https://copsrp.com)
 
-<style>
-img[alt="Product Name Screen Shot"] { 
-  /* width: 200px; */
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid #ddd; /* Gray border */
-  border-radius: 4px;  /* Rounded border */
-  padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
-  }
-
-</style>
 ([back to top](./#readme-top))
 </about>
 
