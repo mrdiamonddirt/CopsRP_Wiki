@@ -33,7 +33,7 @@ Creating a RolePlay Community and Server for Everoneveryone can contribute to th
 
 ([back to top](./#readme-top))
 
-#### Built With
+<!-- #### Built With
 
 * [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
 * [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://reactjs.org/)
@@ -44,7 +44,7 @@ Creating a RolePlay Community and Server for Everoneveryone can contribute to th
 * [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com)
 * [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)](https://jquery.com)
 
-([back to top](./#readme-top))
+([back to top](./#readme-top)) -->
 
 ### Getting Started
 
