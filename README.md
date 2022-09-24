@@ -60,10 +60,15 @@ _For more examples, please refer to the_ [_Documentation_](https://example.com)
 
 ### Roadmap
 
-* [ ] Feature 1
-* [ ] Feature 2
-* [ ] Feature 3
-  * [ ] Nested Feature
+* [✅] Create CopsRP Wiki
+* [✅] Create Github Repo
+* [✅] Start CAD Development
+  * [✅] Start Beta Testing App and finding flaws / Bugs
+  * [ ] Add More Apps to Desktop Environment
+* [ ] Invite Contributors
+  * [ ] Expand on The Wiki
+  * [ ] Expand on the Github Repo
+ 
 
 See the [open issues](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) for a full list of proposed features (and known issues).
 
