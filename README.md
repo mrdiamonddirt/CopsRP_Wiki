@@ -60,10 +60,10 @@ _For more examples, please refer to the_ [_Documentation_](https://example.com)
 
 ### Roadmap
 
-* ✅ Create CopsRP Wiki
-* ✅ Create Github Repo
-* ✅ Start CAD Development
-  * ✅ Start Beta Testing App and finding flaws / Bugs
+* [x] Create CopsRP Wiki
+* [x] Create Github Repo
+* [x] Start CAD Development
+  * [x] Start Beta Testing App and finding flaws / Bugs
   * [ ] Add More Apps to Desktop Environment
 * [ ] Invite Contributors
   * [ ] Expand on The Wiki
