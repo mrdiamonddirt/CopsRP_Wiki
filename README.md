@@ -4,7 +4,7 @@
 
 ## CopsRP Wiki
 
-Creating a RolePlay Community and Server for Everoneveryone can contribute to the CopsRP community in Someway whether that be Developing, Donating or Just Playing its All welcome this wiki will be a place for guides to be added quickly and easily by members of the community and take a load of the development tea\
+Creating a RolePlay Community and Server for Everyone can contribute to the CopsRP community in Someway whether that be Developing, Donating or Just Playing its All welcome this wiki will be a place for guides to be added quickly and easily by members of the community and take a load of the Development team\
 [**Explore the docs »**](https://github.com/mrdiamonddirt/CopsRP\_Wiki)\
 \
 [View Demo](https://github.com/mrdiamonddirt/CopsRP\_Wiki) · [Report Bug](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) · [Request Feature](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues)
@@ -26,12 +26,26 @@ Creating a RolePlay Community and Server for Everoneveryone can contribute to th
 8. [Acknowledgments](./#acknowledgments)
 
 </details>
-
+<about>
 ### About The Project
 
 [![Product Name Screen Shot](.gitbook/assets/logo.png)](https://copsrp.com)
 
+<style>
+img[alt="Product Name Screen Shot"] { 
+  /* width: 200px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+  }
+
+</style>
 ([back to top](./#readme-top))
+</about>
 
 <!-- #### Built With
 
