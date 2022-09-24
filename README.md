@@ -1,4 +1,8 @@
-# 👮‍♂️ Wiki.CopsRP.Com!
+---
+description: Official CopsRP.com Wiki Page
+---
+
+# 🚔 Wiki.CopRP.COM
 
 [![Contributors](https://img.shields.io/github/contributors/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/graphs/contributors) [![Forks](https://img.shields.io/github/forks/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/network/members) [![Stargazers](https://img.shields.io/github/stars/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/stargazers) [![Issues](https://img.shields.io/github/issues/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) [![MIT License](https://img.shields.io/github/license/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/blob/master/LICENSE.txt) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge\&logo=linkedin\&colorB=555)](https://linkedin.com/in/linkedin\_username)
 
@@ -60,15 +64,14 @@ _For more examples, please refer to the_ [_Documentation_](https://example.com)
 
 ### Roadmap
 
-* [✅] Create CopsRP Wiki
-* [✅] Create Github Repo
-* [✅] Start CAD Development
-  * [✅] Start Beta Testing App and finding flaws / Bugs
+* [ ] \[✅] Create CopsRP Wiki
+* [ ] \[✅] Create Github Repo
+* [ ] \[✅] Start CAD Development
+  * [ ] \[✅] Start Beta Testing App and finding flaws / Bugs
   * [ ] Add More Apps to Desktop Environment
 * [ ] Invite Contributors
   * [ ] Expand on The Wiki
   * [ ] Expand on the Github Repo
- 
 
 See the [open issues](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) for a full list of proposed features (and known issues).
 

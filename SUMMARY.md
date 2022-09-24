@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [🚔 Wiki.CopRP.COM](README.md)
 
 ## About us
 
