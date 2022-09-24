@@ -1,19 +1,10 @@
 # 👋 Welcome!
 
-<figure><img src=".gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
-
-### Creating a RolePlay Community and Server for Everone
-
-Everyone can contribute to the CopsRP community in Someway whether that be Developing, Donating or Just Playing its All welcome this wiki will be a place for guides to be added quickly and easily by members of the community and take a load of the development team as it comes to that
-
 [![Contributors](https://img.shields.io/github/contributors/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/graphs/contributors) [![Forks](https://img.shields.io/github/forks/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/network/members) [![Stargazers](https://img.shields.io/github/stars/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/stargazers) [![Issues](https://img.shields.io/github/issues/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) [![MIT License](https://img.shields.io/github/license/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/blob/master/LICENSE.txt) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge\&logo=linkedin\&colorB=555)](https://linkedin.com/in/linkedin\_username)
 
-\
-[![Logo](images/logo.png)](https://github.com/mrdiamonddirt/CopsRP\_Wiki)
+## CopsRP Wiki
 
-#### CopsRP Wiki
-
-Repo For the development of the CopsRP Community Roleplay server allowing anyone to contribute to the development of not only the server but the actual Wiki\
+Creating a RolePlay Community and Server for Everoneveryone can contribute to the CopsRP community in Someway whether that be Developing, Donating or Just Playing its All welcome this wiki will be a place for guides to be added quickly and easily by members of the community and take a load of the development tea\
 [**Explore the docs »**](https://github.com/mrdiamonddirt/CopsRP\_Wiki)\
 \
 [View Demo](https://github.com/mrdiamonddirt/CopsRP\_Wiki) · [Report Bug](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) · [Request Feature](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues)
@@ -38,7 +29,7 @@ Repo For the development of the CopsRP Community Roleplay server allowing anyone
 
 ### About The Project
 
-[![Product Name Screen Shot](images/screenshot.png)](https://example.com)
+[![Product Name Screen Shot](.gitbook/assets/logo.png)](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -60,37 +51,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Getting Started
 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-
-#### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-*   npm
-
-    ```
-    npm install npm@latest -g
-    ```
-
-#### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2.  Clone the repo
-
-    ```
-    git clone https://github.com/mrdiamonddirt/CopsRP_Wiki.git
-    ```
-3.  Install NPM packages
-
-    ```
-    npm install
-    ```
-4.  Enter your API in `config.js`
-
-    ```js
-    const API_KEY = 'ENTER YOUR API';
-    ```
-
-([back to top](./#readme-top))
 
 ### Usage
 
