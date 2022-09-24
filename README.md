@@ -1,4 +1,9 @@
-# 🚔 Wiki.CopRP.COM
+---
+cover: .gitbook/assets/copsrpbanner.jpeg
+coverY: 0
+---
+
+# 🚔 Wiki.CopsRP.COM
 
 [![Contributors](https://img.shields.io/github/contributors/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/graphs/contributors) [![Forks](https://img.shields.io/github/forks/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/network/members) [![Stargazers](https://img.shields.io/github/stars/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/stargazers) [![Issues](https://img.shields.io/github/issues/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) [![MIT License](https://img.shields.io/github/license/mrdiamonddirt/CopsRP\_Wiki.svg?style=for-the-badge)](https://github.com/mrdiamonddirt/CopsRP\_Wiki/blob/master/LICENSE.txt) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge\&logo=linkedin\&colorB=555)](https://linkedin.com/in/linkedin\_username)
 
@@ -26,32 +31,18 @@ Creating a RolePlay Community and Server for Everyone can contribute to the Cops
 8. [Acknowledgments](./#acknowledgments)
 
 </details>
-<about>
-### About The Project
+
+\### About The Project
 
 [![Product Name Screen Shot](.gitbook/assets/logo.png)](https://copsrp.com)
 
 ([back to top](./#readme-top))
-</about>
 
-<!-- #### Built With
-
-* [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
-* [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://reactjs.org/)
-* [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)](https://vuejs.org/)
-* [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)](https://angular.io/)
-* [![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge\&logo=svelte\&logoColor=FF3E00)](https://svelte.dev/)
-* [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)](https://laravel.com)
-* [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com)
-* [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)](https://jquery.com)
-
-([back to top](./#readme-top)) -->
-
-### Getting Started
+#### Getting Started
 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-### Usage
+#### Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -59,7 +50,7 @@ _For more examples, please refer to the_ [_Documentation_](https://example.com)
 
 ([back to top](./#readme-top))
 
-### Roadmap
+#### Roadmap
 
 * [x] Create CopsRP Wiki
 * [x] Create Github Repo
@@ -69,13 +60,13 @@ _For more examples, please refer to the_ [_Documentation_](https://example.com)
 * [ ] Invite Contributors
   * [ ] Expand on The Wiki
   * [ ] Expand on the Github Repo
-* [ ] Create more detailed Graphical Roadmap 
+* [ ] Create more detailed Graphical Roadmap
 
 See the [open issues](https://github.com/mrdiamonddirt/CopsRP\_Wiki/issues) for a full list of proposed features (and known issues).
 
 ([back to top](./#readme-top))
 
-### Contributing
+#### Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -89,13 +80,13 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ([back to top](./#readme-top))
 
-### License
+#### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ([back to top](./#readme-top))
 
-### Contact
+#### Contact
 
 Your Name - [@mrdiamonddirt](https://twitter.com/mrdiamonddirt) - mrdiamonddirt@Gmail.com
 
@@ -103,7 +94,7 @@ Project Link: [https://github.com/mrdiamonddirt/CopsRP\_Wiki](https://github.com
 
 ([back to top](./#readme-top))
 
-### Acknowledgments
+#### Acknowledgments
 
 * [The FiveM and CFX team without them the server wouldn't be possible](https://https/forum.cfx.re/)
 * [The QBCore Development Team because they have taught me so much and the server is built upon QBCore as a Base](https://docs.qbcore.org/qbcore-documentation/)
