@@ -1,14 +1,30 @@
----
-cover: ../.gitbook/assets/copsrpbanner.jpeg
-coverY: 0
----
-
-# Jobs
-
-## Available Jobs
-
-CopsRpP has lots of jobs available from Cop to criminal, from Fireman to fisherman.
+# 👩🏭 Available Jobs
 
 {% hint style="info" %}
-**Wiki tip:** Jobs are currently in Development but for a full overview of the terms and Conditions you can check the website and Discord https://CopsRP.com and https://discord.gg/UU8MXCM &#x20;
+Wiki Tip:&#x20;
+
+
 {% endhint %}
+
+| Job                 | Location | Details |
+| ------------------- | :------: | :-----: |
+| LEO/Police          |          |         |
+| Medic               |          |         |
+| Fire Fighter        |          |         |
+| Taxi Driver         |          |         |
+| Courier             |          |         |
+| Truck Driver        |          |         |
+| Parking Enforcement |          |         |
+| Mechanic            |          |         |
+| Car Dealer          |          |         |
+| Hunter              |          |         |
+| Fisherman           |          |         |
+|                     |          |         |
+
+### Upcoming Jobs
+
+Jobs that are currently in development / not quite finisehd yet
+
+### Illegal Jobs
+
+Jobs and activities that maybe slightly outside the boundaries of the law 😅
