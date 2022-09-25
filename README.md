@@ -34,7 +34,7 @@ Creating a RolePlay Community and Server for Everyone can contribute to the Cops
 
 About The Project
 
-[![Product Name Screen Shot](.gitbook/assets/logo.png)](https://copsrp.com)
+[![Product Name Screen Shot](<images/logo (3).png>)](https://copsrp.com)
 
 ([back to top](./#readme-top))
 

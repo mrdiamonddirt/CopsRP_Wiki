@@ -12,7 +12,8 @@
 
 ## Jobs
 
-* [Jobs](jobs/available-jobs.md)
+* [👩🏭 Available Jobs](jobs/available-jobs.md)
+* [🔫 Illegal Jobs](jobs/illegal-jobs.md)
 
 ## Team
 
