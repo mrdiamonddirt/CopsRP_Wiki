@@ -10,9 +10,9 @@
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
-## Jobs
+# Jobs
 
-* [Jobs](jobs/available-jobs.md)
+* [Available Jobs](jobs/available-jobs.md)
 
 ## Team
 
