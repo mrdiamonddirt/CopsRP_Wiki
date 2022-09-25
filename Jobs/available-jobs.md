@@ -5,6 +5,8 @@ coverY: 0
 
 # Jobs
 
+## Available Jobs
+
 CopsRpP has lots of jobs available from Cop to criminal, from Fireman to fisherman.
 
 {% hint style="info" %}
